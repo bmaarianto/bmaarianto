@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Bima Aulia Arianto
 
-Welcome to my GitHub profile! I'm a passionate **web developer** from Indonesia 🇮🇩 who enjoys building clean, modern, and functional websites using **CodeIgniter**, **MySQL**, and **Tailwind CSS**. I’m currently working on personal projects, learning new tech stacks, and exploring the world of software development.
+Welcome to my GitHub profile! I'm a passionate **web development enthusiast** from Indonesia 🇮🇩 who enjoys learning how to build clean, modern, and functional websites. I’m currently exploring **React.js**, **Node.js**, and backend development with **MySQL**, while also getting familiar with **Tailwind CSS**.
+
 
 ## 🚀 Tech Stack
 
