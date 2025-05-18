@@ -4,16 +4,15 @@ Welcome to my GitHub profile! I'm a passionate **web developer** from Indonesia 
 
 ## 🚀 Tech Stack
 
-- 💻 Backend: `PHP`, `CodeIgniter`
-- 🎨 Frontend: `HTML`, `CSS`, `Tailwind CSS`, `JavaScript`
+- 💻 Backend: `JavaScript`
+- 🎨 Frontend: `HTML`, `CSS`, `Tailwind CSS`
 - 🗄️ Database: `MySQL`
-- 💽 OS: `Linux (Ubuntu)`
+- 💽 OS: `Linux (Ubuntu)`, `Windows 10`
 
-## 📂 Current Projects
+## 📚 Currently Learning
 
-- 🎬 Netflix-style video streaming website built with CodeIgniter + Tailwind CSS
-- 🛒 Simple and colorful e-commerce website with WhatsApp checkout
-- 📚 Learning more about backend development and modern PHP practices
+- ⚛️ `React.js` for building dynamic and responsive user interfaces
+- 🌐 `Node.js` for creating scalable backend services with JavaScript
 
 ## 📈 GitHub Stats
 
@@ -24,8 +23,6 @@ Welcome to my GitHub profile! I'm a passionate **web developer** from Indonesia 
 ## 📫 Let's Connect!
 
 - ✉️ Email: bmaarianto@gmail.com  
-- 📱 WhatsApp: 0851-7777-9999  
-- 🌍 Location: Cikarang Selatan, Kab. Bekasi
 
 ---
 
