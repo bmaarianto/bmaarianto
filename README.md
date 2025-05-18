@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm a passionate **web developer** from Indonesia 
 
 ## 📫 Let's Connect!
 
-- ✉️ Email: bmaarianto@gmail.com  
+- ✉️ Email: bimaarianto19@gmail.com
 
 ---
 
