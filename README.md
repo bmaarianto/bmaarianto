@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! I'm Bima, a passionate developer who loves building cool, useful, and creative projects. I enjoy turning ideas into real applications through code, and I'm always exploring new tools, technologies, and frameworks.<br><br>🌱 I’m learning: Node.js
+Hi there! I'm Bima, a passionate developer who loves building cool, useful, and creative projects. I enjoy turning ideas into real applications through code, and I'm always exploring new tools, technologies, and frameworks.<br><br>🌱 I’m learning: Node.js, Express.js, MongoDB
 
 
 ## 🌐 Socials:
